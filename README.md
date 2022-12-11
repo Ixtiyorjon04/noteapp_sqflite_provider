@@ -6,7 +6,8 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 ![img.png](img.png)
-![img_1.png](img_1.png)
+![image](https://user-images.githubusercontent.com/110228652/206919117-f32e9cb9-19e4-4320-9368-3859bb23474c.png)
+
 
 A few resources to get you started if this is your first Flutter project:
 
